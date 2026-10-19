@@ -104,9 +104,9 @@ The chapter is open to students of every year and background. No prior experienc
 
 ## <img src="https://api.iconify.design/ph/stack-bold.svg?color=%2334a853" height="26" align="absmiddle" alt=""> Repositories
 
-**[GDG-SIT](https://github.com/YHQZ1/GDG-SIT)**: the chapter website and admin panel, where events, team members and photos are managed.
+**[GDG-SIT](https://github.com/gdg-sit-pune/GDG-SIT)**: the chapter website and admin panel, where events, team members and photos are managed.
 
-<a href="https://github.com/YHQZ1/GDG-SIT">
+<a href="https://github.com/gdg-sit-pune/GDG-SIT">
   <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,vercel&perline=5" alt="Next.js, TypeScript, Tailwind CSS, Firebase and Vercel">
 </a>
 

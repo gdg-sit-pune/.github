@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdg-sit/.github/main/profile/assets/banner-dark.svg">
-  <img alt="GDG on Campus SIT Pune" src="https://raw.githubusercontent.com/gdg-sit/.github/main/profile/assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdg-sit-pune/.github/main/profile/assets/banner-dark.svg">
+  <img alt="GDG on Campus SIT Pune" src="https://raw.githubusercontent.com/gdg-sit-pune/.github/main/profile/assets/banner-light.svg" width="100%">
 </picture>
 
 <br>
@@ -21,7 +21,7 @@ A community of student developers who learn, build and ship together.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/gdg-sit/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
+<img src="https://raw.githubusercontent.com/gdg-sit-pune/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
 
 ## <img src="https://api.iconify.design/ph/info-bold.svg?color=%234285f4" height="26" align="absmiddle" alt=""> About
 
@@ -29,7 +29,7 @@ GDG on Campus SIT Pune is a student-run chapter of Google Developer Groups at Sy
 
 The chapter is open to students of every year and background. No prior experience is required to take part.
 
-<img src="https://raw.githubusercontent.com/gdg-sit/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
+<img src="https://raw.githubusercontent.com/gdg-sit-pune/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
 
 ## <img src="https://api.iconify.design/ph/rocket-launch-bold.svg?color=%23ea4335" height="26" align="absmiddle" alt=""> What We Do
 
@@ -58,7 +58,7 @@ The chapter is open to students of every year and background. No prior experienc
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/gdg-sit/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
+<img src="https://raw.githubusercontent.com/gdg-sit-pune/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
 
 ## <img src="https://api.iconify.design/ph/squares-four-bold.svg?color=%23fbbc04" height="26" align="absmiddle" alt=""> Domains
 
@@ -100,17 +100,17 @@ The chapter is open to students of every year and background. No prior experienc
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/gdg-sit/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
+<img src="https://raw.githubusercontent.com/gdg-sit-pune/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
 
 ## <img src="https://api.iconify.design/ph/stack-bold.svg?color=%2334a853" height="26" align="absmiddle" alt=""> Repositories
 
-**[gdg-sit](https://github.com/gdg-sit/gdg-sit)**: the chapter website and admin panel, where events, team members and photos are managed.
+**[GDG-SIT](https://github.com/YHQZ1/GDG-SIT)**: the chapter website and admin panel, where events, team members and photos are managed.
 
-<a href="https://github.com/gdg-sit/gdg-sit">
+<a href="https://github.com/YHQZ1/GDG-SIT">
   <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,vercel&perline=5" alt="Next.js, TypeScript, Tailwind CSS, Firebase and Vercel">
 </a>
 
-<img src="https://raw.githubusercontent.com/gdg-sit/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
+<img src="https://raw.githubusercontent.com/gdg-sit-pune/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
 
 ## <img src="https://api.iconify.design/ph/hand-waving-bold.svg?color=%234285f4" height="26" align="absmiddle" alt=""> Get Involved
 
@@ -118,7 +118,7 @@ The chapter is open to students of every year and background. No prior experienc
 2. Follow us on [Instagram](https://www.instagram.com/gdsc.sitpune/) and [LinkedIn](https://www.linkedin.com/company/gdsc-sit-pune/) for announcements.
 3. Join the chapter through the link on the website to be notified about events and to RSVP.
 
-<img src="https://raw.githubusercontent.com/gdg-sit/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
+<img src="https://raw.githubusercontent.com/gdg-sit-pune/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
 
 ## <img src="https://api.iconify.design/ph/git-pull-request-bold.svg?color=%23ea4335" height="26" align="absmiddle" alt=""> Contributing
 
@@ -128,7 +128,7 @@ Contributions to our repositories are welcome from chapter members and the wider
 2. Fork the repository and create a branch from `main`.
 3. Submit a pull request that references the issue.
 
-<img src="https://raw.githubusercontent.com/gdg-sit/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
+<img src="https://raw.githubusercontent.com/gdg-sit-pune/.github/main/profile/assets/divider.svg" width="100%" height="4" alt="">
 
 ## <img src="https://api.iconify.design/ph/envelope-simple-bold.svg?color=%23fbbc04" height="26" align="absmiddle" alt=""> Contact
 

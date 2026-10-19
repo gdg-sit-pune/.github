@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="GDG on Campus SIT Pune">
+  <rect x="1" y="1" width="1198" height="318" rx="2" fill="#FFFFFF" stroke="#DADCE0"/>
+  <rect x="1" y="1" width="300" height="8" fill="#4285F4"/>
+  <rect x="301" y="1" width="300" height="8" fill="#EA4335"/>
+  <rect x="601" y="1" width="300" height="8" fill="#FBBC04"/>
+  <rect x="901" y="1" width="298" height="8" fill="#34A853"/>
+  <g font-family="'Google Sans', 'Product Sans', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="700">
+    <text x="64" y="144" font-size="80"><tspan fill="#4285F4">G</tspan><tspan fill="#EA4335">D</tspan><tspan fill="#34A853">G</tspan><tspan fill="#202124"> on Campus</tspan></text>
+    <text x="64" y="228" font-size="80" fill="#F29900">SIT Pune</text>
+    <text x="64" y="280" font-size="24" font-weight="400" fill="#5F6368">Google Developer Groups on Campus  |  Symbiosis Institute of Technology, Pune</text>
+  </g>
+</svg>
